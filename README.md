@@ -4,8 +4,9 @@ We will covering Synthetic data generation using :
 
 1. **LLM**
 2. **Synthetic data vault**
+---
 
-1. **LLM** : In this we are going leverage the `distilGPT2` model and `be_great` package to generate the synthetic tabular data.
+1. **LLM (Pre-trained Large Language model)** : In this we are going leverage the `distilGPT2` model and `be_great` package to generate the synthetic tabular data.
 
 **GReaT** stands for 
 **Generation of Realistic Tabular data**
